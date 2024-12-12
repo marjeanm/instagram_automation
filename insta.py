@@ -79,8 +79,7 @@ class Bot:
             time.sleep(2)
 
 # Replace these with your Instagram username and password
-username = 'chocolatebtrfly'
-password = '7@qb74mK'
+
 
 audience = ['propertyofmycodeblog']
 message = "testing of a bot"
